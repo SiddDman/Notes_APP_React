@@ -1,10 +1,9 @@
 import React from 'react'
 
-const About = () => { 
+const About = () => {
+
     return (
-        <div>
-            This is About page
-        </div>
+        <div>This is About</div>
     )
 }
 
